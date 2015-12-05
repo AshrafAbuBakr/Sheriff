@@ -45,5 +45,4 @@
  * @note Calling `decrement` when the value is currently zero will have no effect.
  */
 - (void)decrement;
-
 @end
